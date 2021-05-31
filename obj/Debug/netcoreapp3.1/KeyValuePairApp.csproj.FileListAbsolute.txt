@@ -1,0 +1,13 @@
+C:\Users\unsto\Documents\Web\VisualStudio2019\Repos\KeyValuePairApp\bin\Debug\netcoreapp3.1\KeyValuePairApp.exe
+C:\Users\unsto\Documents\Web\VisualStudio2019\Repos\KeyValuePairApp\bin\Debug\netcoreapp3.1\KeyValuePairApp.deps.json
+C:\Users\unsto\Documents\Web\VisualStudio2019\Repos\KeyValuePairApp\bin\Debug\netcoreapp3.1\KeyValuePairApp.runtimeconfig.json
+C:\Users\unsto\Documents\Web\VisualStudio2019\Repos\KeyValuePairApp\bin\Debug\netcoreapp3.1\KeyValuePairApp.runtimeconfig.dev.json
+C:\Users\unsto\Documents\Web\VisualStudio2019\Repos\KeyValuePairApp\bin\Debug\netcoreapp3.1\KeyValuePairApp.dll
+C:\Users\unsto\Documents\Web\VisualStudio2019\Repos\KeyValuePairApp\bin\Debug\netcoreapp3.1\KeyValuePairApp.pdb
+C:\Users\unsto\Documents\Web\VisualStudio2019\Repos\KeyValuePairApp\obj\Debug\netcoreapp3.1\KeyValuePairApp.csprojAssemblyReference.cache
+C:\Users\unsto\Documents\Web\VisualStudio2019\Repos\KeyValuePairApp\obj\Debug\netcoreapp3.1\KeyValuePairApp.AssemblyInfoInputs.cache
+C:\Users\unsto\Documents\Web\VisualStudio2019\Repos\KeyValuePairApp\obj\Debug\netcoreapp3.1\KeyValuePairApp.AssemblyInfo.cs
+C:\Users\unsto\Documents\Web\VisualStudio2019\Repos\KeyValuePairApp\obj\Debug\netcoreapp3.1\KeyValuePairApp.csproj.CoreCompileInputs.cache
+C:\Users\unsto\Documents\Web\VisualStudio2019\Repos\KeyValuePairApp\obj\Debug\netcoreapp3.1\KeyValuePairApp.dll
+C:\Users\unsto\Documents\Web\VisualStudio2019\Repos\KeyValuePairApp\obj\Debug\netcoreapp3.1\KeyValuePairApp.pdb
+C:\Users\unsto\Documents\Web\VisualStudio2019\Repos\KeyValuePairApp\obj\Debug\netcoreapp3.1\KeyValuePairApp.genruntimeconfig.cache
